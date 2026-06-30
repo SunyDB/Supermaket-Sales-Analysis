@@ -33,6 +33,10 @@ This dashboard answers the following business questions:
 
 ---
 
+## Dataset Preview
+
+![Dataset Preview](asset/supermkt-data.png)
+
 ## Dataset Overview
 
 The dataset contains supermarket transaction records, including:
@@ -54,15 +58,15 @@ The dataset contains supermarket transaction records, including:
 
 ---
 
-## Dataset Preview
-
-![Dataset Preview](images/dataset-preview.png)
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dataset Preview](asset/supermkt-dashboard.png)
+![Dataset Preview](asset/supermkt-dashbord1.png)
+
+
 
 ---
 
