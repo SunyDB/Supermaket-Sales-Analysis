@@ -63,8 +63,8 @@ The dataset contains supermarket transaction records, including:
 
 ## Dashboard Preview
 
-![Dashboard](assets/supermkt-dashboard.png)
-![Dashboard](assets/supermkt-dashbord1.png)
+![Dashboard](assets/supermkt-dashboard1.png)
+![Dashboard](assets/supermkt-dashbord.png)
 
 
 
