@@ -72,6 +72,7 @@ The dataset contains supermarket transaction records, including:
 |------|-------:|
 | Total Sales | 116.27M |
 | Total Quantity Sold | 6K |
+| Total COGS | 110.73M |
 | Total Profit | 5.54M |
 | Transactions | 1K |
 | Average Customer Rating | 6.97 |
